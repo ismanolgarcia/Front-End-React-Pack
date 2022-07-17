@@ -1,0 +1,62 @@
+{
+  "name": "front-end-react-pack",
+  "displayName": "Front-End React Pack",
+  "description": "Package that includes the extensions for Front-End React",
+  "author": {
+    "name": "Ismanol Garcia",
+    "email": "dev@ismanolgarcia.com",
+    "url": "https://ismanolgarcia.com/"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ismanolgarcia/Front-End-React-Pack",
+  "publisher": "ismanolgarcia",
+  "repository": {
+    "url": "https://github.com/ismanolgarcia/Front-End-React-Pack.git",
+    "type": "git"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#051026",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/ismanolgarcia/Front-End-React-Pack/issues"
+  },
+  "keywords": [
+    "Reactjs",
+    "Javascript",
+    "Front-end",
+    "Nodejs",
+    "Project",
+    "Developer",
+    "Pack"
+  ],
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dsznajder.es7-react-js-snippets",
+    "burkeholland.simple-react-snippets",
+    "msjsdiag.vscode-react-native",
+    "xabikos.JavaScriptSnippets",
+    "ms-vscode.vscode-typescript-next",
+    "mgmcdermott.vscode-language-babel",
+    "sidthesloth.html5-boilerplate",
+    "ecmel.vscode-html-css",
+    "Syler.sass-indented",
+    "ritwickdey.live-sass",
+    "styled-components.vscode-styled-components",
+    "ritwickdey.LiveServer",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "usernamehw.errorlens",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "wix.vscode-import-cost"
+  ]
+}
