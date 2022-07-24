@@ -44,7 +44,7 @@ HTML id and class attribute completion for Visual Studio Code.
 
 Indented Sass syntax highlighting, autocomplete & Formatter for VSCode
 
-### [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+### [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
 
 Compile Sass or Scss to CSS at realtime with live browser reload.
 
@@ -77,13 +77,17 @@ ErrorLens turbo-charges language diagnostic features by making diagnostics stand
 
 Visual Studio Code plugin that autocompletes filenames.
 
-### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+### [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 Visual Studio Code plugin that autocompletes npm modules in import statements.
 
 ### [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
+
+## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+
+A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.
 
 
 ## Want to see your extension added here?

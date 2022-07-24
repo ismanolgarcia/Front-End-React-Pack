@@ -8,7 +8,7 @@
     "url": "https://ismanolgarcia.com/"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.5.0",
   "homepage": "https://github.com/ismanolgarcia/Front-End-React-Pack",
   "publisher": "ismanolgarcia",
   "repository": {
@@ -17,7 +17,7 @@
   },
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#051026",
+    "color": "#ffffff",
     "theme": "dark"
   },
   "bugs": {
@@ -48,7 +48,7 @@
     "sidthesloth.html5-boilerplate",
     "ecmel.vscode-html-css",
     "Syler.sass-indented",
-    "ritwickdey.live-sass",
+    "glenn2223.live-sass",
     "styled-components.vscode-styled-components",
     "ritwickdey.LiveServer",
     "formulahendry.auto-rename-tag",
@@ -57,6 +57,7 @@
     "esbenp.prettier-vscode",
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "jock.svg"
   ]
 }
