@@ -18,7 +18,7 @@
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#ffffff",
-    "theme": "dark"
+    "theme": "light"
   },
   "bugs": {
     "url": "https://github.com/ismanolgarcia/Front-End-React-Pack/issues"
