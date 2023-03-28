@@ -8,16 +8,18 @@ Package that includes the most updated extensions for a React Front-End to start
 
 JavaScript and React/Redux snippets in ES7+ with Babel plugin features for VS Code
 
-
 ### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 The essential collection of React Snippets and commands.
 example 
 
-
 ### [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 
 This VS Code extension provides a development environment for React Native projects. Using this extension, you can debug your code and quickly run react-native commands from the command palette.
+
+### [ReacTree](https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree)
+
+ReacTree is a VS Code extension which visualizes the component hierarchy within a React application, enabling developers to quickly identify the relationships between components.
 
 ### [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
@@ -85,7 +87,7 @@ Visual Studio Code plugin that autocompletes npm modules in import statements.
 
 This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
 
-## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+### [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
 A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.
 

@@ -8,7 +8,7 @@
     "url": "https://ismanolgarcia.com/"
   },
   "license": "MIT",
-  "version": "1.5.1",
+  "version": "2.0.0",
   "homepage": "https://github.com/ismanolgarcia/Front-End-React-Pack",
   "publisher": "ismanolgarcia",
   "repository": {
@@ -42,6 +42,7 @@
     "dsznajder.es7-react-js-snippets",
     "burkeholland.simple-react-snippets",
     "msjsdiag.vscode-react-native",
+    "ReacTreeDev.reactree",
     "xabikos.JavaScriptSnippets",
     "ms-vscode.vscode-typescript-next",
     "mgmcdermott.vscode-language-babel",
